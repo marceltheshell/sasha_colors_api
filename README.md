@@ -12,6 +12,8 @@ Things you may want to cover:
 * Configuration
 
 * Database creation
+To start local DB run `mongod --httpinterface`
+Go to `http://localhost:28017/` to access. 
 
 * Database initialization
 
